@@ -1,6 +1,8 @@
-### Picsart Tesla MacOS icons
+# Picsart Tesla MacOS icons
 
-Prompting, curation and editing by Josiah Rhys Jacobson
+![Thumbnail preview of icons](images/preview.png)
+
+Prompting, curation and editing by Josiah Rhys Jacobson.
 
 Goals were to test/ experiment with "generative AI" in regards to:
 - Synthwave/ vaporwave aesthetic
